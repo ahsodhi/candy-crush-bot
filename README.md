@@ -28,4 +28,4 @@ Python packages
 ## Instructions
 
 1. Start Candy Crush
-2. From a terminal window, execute '''python bot.py'''
+2. From a terminal window, execute `python bot.py`
