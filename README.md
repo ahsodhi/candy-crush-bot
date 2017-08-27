@@ -1,8 +1,8 @@
 # candy-crush-bot
 
-This bot reads the the RGB color value from each cell in the gameboard and categorizes it based on manhattan distances.  
-It then proceedes to find all possible swaps and the numbers of candies that will be eliminated (including by combos) by performing that swap.  
-It executes the swap that will remove the highest number of candies.  
+This bot reads the the RGB color value from each cell in the gameboard and categorizes it based on manhattan distances.    
+It then proceedes to find all possible swaps and the numbers of candies that will be eliminated (including any combos) by performing that swap.    
+It executes the swap that will remove the highest number of candies.    
 In case there are more than one best possbile swaps, it gives preference to one that's further down the board.  
 
 ## Configuration
