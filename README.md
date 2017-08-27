@@ -24,3 +24,8 @@ Python packages
 * Pillow (4.0.0)
 * pywin32 (220)
 * OpenCV-Python
+
+## Instructions
+
+1. Start Candy Crush
+2. From a terminal window, execute '''python bot.py'''
