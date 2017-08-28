@@ -1,4 +1,4 @@
-# candy-crush-bot
+# Candy Crush Bot
 
 This bot reads the the RGB color value from each cell in the gameboard and categorizes it based on manhattan distances.    
 It then proceedes to find all possible swaps and the numbers of candies that will be eliminated (including any combos) by performing that swap.    
