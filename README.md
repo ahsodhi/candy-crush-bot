@@ -7,7 +7,7 @@ In case there are more than one best possbile swaps, it gives preference to one 
 
 ## Configuration
 
-You will need to adjust the values of the following variables, declared on top of script, to fit your screen size.  
+You will need to adjust the values of the following variables, declared on top of script, according to your screen size.  
 
 * SNAPSHOT_AREA: area of the screen that will contain the gameboard
 * HRANGE: horizontal distance in pixels between each cell of the gameboard
